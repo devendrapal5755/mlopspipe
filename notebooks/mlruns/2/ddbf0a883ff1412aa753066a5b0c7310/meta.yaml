@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DevendraP/Desktop/mlops2Copy/simple-dvc-demo-main-mlflow/simple-dvc-demo-main-mlflow/notebooks/mlruns/2/ddbf0a883ff1412aa753066a5b0c7310/artifacts
+end_time: 1658727608272
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: ddbf0a883ff1412aa753066a5b0c7310
+run_uuid: ddbf0a883ff1412aa753066a5b0c7310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658727608154
+status: 3
+tags: []
+user_id: DevendraP

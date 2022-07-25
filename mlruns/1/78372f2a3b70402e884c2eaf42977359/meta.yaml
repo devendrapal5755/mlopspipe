@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/78372f2a3b70402e884c2eaf42977359/artifacts
+end_time: 1658737902126
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 78372f2a3b70402e884c2eaf42977359
+run_uuid: 78372f2a3b70402e884c2eaf42977359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658736931335
+status: 3
+tags: []
+user_id: DevendraP

@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/DevendraP/Desktop/mlops2Copy/simple-dvc-demo-main-mlflow/simple-dvc-demo-main-mlflow/notebooks/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: ElasticNet regression
